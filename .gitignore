@@ -1,0 +1,4 @@
+build/**
+.vscode/**
+ConcurrencyLearning/thirdparty/**
+!ConcurrencyLearning/thirdparty/CMakeLists.txt
