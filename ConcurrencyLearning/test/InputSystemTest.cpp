@@ -1,6 +1,5 @@
 #include "InputSystem.h"
 #include <iostream>
-#include <Windows.h>
 #include <thread>
 using namespace std::chrono_literals;
 
